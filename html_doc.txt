@@ -1,0 +1,2538 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="5e56c2c464e12b6c8aac02d1462205f9" name="p:domain_verify"/>
+  <title>
+   PL-00009513
+  </title>
+  <meta content="Pedestal, Assy Base" name="description"/>
+  <meta content="PL-00009513" name="keywords"/>
+  <meta content="INDEX,FOLLOW" name="robots"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://www.viewsonic.com/media/favicon/default/favicon_1.ico" rel="icon" type="image/x-icon"/>
+  <link href="https://www.viewsonic.com/media/favicon/default/favicon_1.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&amp;v1&amp;subset=latin%2Clatin-ext" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"/>
+  <link href="https://www.viewsonic.com/media/css/c0a99f4b8f99f82e7beda3f40a8077b4-12-SSL-1586399063.css" rel="stylesheet" type="text/css">
+   <link href="https://www.viewsonic.com/media/css/e3d954082e2694cd317f34c520b337d0-12-SSL-1591863891.css" media="all" rel="stylesheet" type="text/css">
+    <link href="https://www.viewsonic.com/media/css/eace48a266b8ed476b0f8f7590fea375-12-SSL-1590786053.css" media="print" rel="stylesheet" type="text/css"/>
+    <script src="https://www.viewsonic.com/media/js/b8ec6bcef876391d53cc8e25bf04cf01-1589341973.js" type="text/javascript">
+    </script>
+    <!--[if gt IE 7]><link rel="stylesheet" type="text/css" href="https://www.viewsonic.com/media/css/02640b8bb30850bb86c8f3989803c4d1-12-SSL-1586400930.css" media="all" /> <![endif]-->
+    <!--[if lt IE 7]> <script type="text/javascript" src="https://www.viewsonic.com/media/js/82d68402beced547f8e08d5a74d20dfc-1589342000.js"></script> <![endif]-->
+    <!--[if lt IE 9]> <script type="text/javascript" src="https://www.viewsonic.com/media/js/6316a7f63c2a2e3d4bc92dc531caf11c-1586399023.js"></script> <![endif]-->
+    <script type="text/javascript">
+     //<![CDATA[
+Mage.Cookies.path     = '/parts';
+Mage.Cookies.domain   = '.www.viewsonic.com';
+//]]>
+    </script>
+    <script type="text/javascript">
+     //<![CDATA[
+optionalZipCountries = ["MO"];
+//]]>
+    </script>
+    <script type="text/javascript">
+     //<![CDATA[
+var Translator = new Translate([]);
+//]]>
+    </script>
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-1863072-3', 'auto');
+ga('send', 'pageview');
+    </script>
+    <meta content="327459077612325" property="fb:pages"/>
+    <script>
+     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGBNRB');
+    </script>
+    <style>
+     ul li [title~=Coronavirus] { display: none }
+    </style>
+    <script type="text/javascript">
+     //<![CDATA[
+if (typeof dailydealTimeCountersCategory == 'undefined') {
+var dailydealTimeCountersCategory = new Array();
+var i = 0;
+}
+//]]>
+    </script>
+    <meta content="product_research" name="6s_activity_type"/>
+   </link>
+  </link>
+ </head>
+ <body class="catalog-product-view full-width catalog-product-view product-pl-00009513">
+  <script type="text/javascript">
+   var downloads = new Downloads('https://www.viewsonic.com/parts/downloads/dl/updateDownloads/product/70492/id/%file_id%/');
+  </script>
+  <noscript>
+   <div class="global-site-notice noscript">
+    <div class="notice-inner">
+     <p>
+      <strong>
+       JavaScript seems to be disabled in your browser.
+      </strong>
+      <br/>
+      You must have JavaScript enabled in your browser to utilize the functionality of this website.
+     </p>
+    </div>
+   </div>
+  </noscript>
+  <div class="page">
+   <div class="header-container type8">
+    <div class="header container">
+     <div class="row justify-content-between align-items-center flex-nowrap">
+      <a class="logo col-6 col-lg-3 d-inline-block" href="https://www.viewsonic.com/parts/" title="ViewSonic">
+       <strong>
+        ViewSonic
+       </strong>
+       <img alt="ViewSonic" src="https://www.viewsonic.com/skin/frontend/smartwave/viewsonic/images/logo.png"/>
+      </a>
+      <div class="header-wrapper col d-none d-lg-inline-block">
+       <div class="main-nav">
+        <div class="menu-wrapper">
+         <div class="menu-all-pages-container">
+          <ul class="menu d-flex justify-content-left">
+           <li class="">
+            <a href="//www.viewsonic.com/parts/monitor-parts.html" target="_blank ">
+             Monitor Parts
+            </a>
+           </li>
+           <li class="">
+            <a href="//www.viewsonic.com/parts/pj.html" target="_blank ">
+             Projector Parts
+            </a>
+           </li>
+           <li class="">
+            <a href="//www.viewsonic.com/parts/commercial-interactive-display-parts.html" target="_blank ">
+             Commercial/Interactive Display Parts
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <script type="text/javascript">
+       var SW_MENU_POPUP_WIDTH = 0;
+jQuery(function($){
+    $(document).ready(function(){
+        $('.main-nav .menu').et_menu({
+            type: "default",
+            delayTime: 0        });
+    });
+});
+      </script>
+      <div class="top-links-area d-none d-lg-inline-block">
+       <ul class="top-links-list col-auto d-flex">
+        <li>
+         <a class="btn btn-red" href="https://www.viewsonic.com/parts/customer/account/login/" role="button" title="Log In">
+          Log In
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="cart-area col-6 col-lg-auto">
+       <div class="row justify-content-end align-items-center">
+        <div class="search-area d-none d-lg-inline-block col-auto">
+         <a class="search-icon" href="javascript:void(0)">
+          <i class="icon-search">
+          </i>
+         </a>
+         <form action="//www.viewsonic.com/parts/catalogsearch/result/" autocomplete="off" id="search_mini_form" method="get">
+          <div class="form-search no-padding">
+           <label for="search">
+            Search:
+           </label>
+           <input class="search__text input-text" id="search" name="q" type="text"/>
+           <button class="button" title="Search" type="submit">
+            <i class="icon-search">
+            </i>
+           </button>
+           <div class="search-autocomplete" id="search_autocomplete">
+           </div>
+           <div class="clearer">
+           </div>
+          </div>
+         </form>
+         <script>
+          (function($){//Adds focus to searchbar when click the search icon
+$('.search-icon').click(focusInput);
+function focusInput(){
+setTimeout(function(){
+$('.search-area input').filter(':visible').focus();
+}, 100);
+}//Checks if in Parts Store. If true, then adds class styling specific to parts store
+if(/\/parts\//.test(window.location.href)){
+$('body').addClass('parts-store')
+} else {
+$('body').removeClass('parts-store')
+}
+})(jQuery)
+         </script>
+         <script>
+          jQuery( document ).ready(function() {
+try {
+jQuery(".search__text").keyup(function(event) {
+if (event.keyCode === 13) {
+jQuery("#search_mini_form").submit();
+}
+});
+} catch(err) {
+console.log(err);
+}
+});
+         </script>
+        </div>
+        <div class="switcher-area col-auto">
+         <div class="cart-area mini-cart">
+          <a class="mybag-link" href="javascript:void(0)" title="0 Item(s)">
+           <i class="fal fa-shopping-cart">
+           </i>
+           <span class="cart-qty badge">
+            0
+           </span>
+          </a>
+          <div class="topCartContent block-content theme-border-color">
+           <div class="inner-wrapper">
+            <p class="cart-empty">
+             You have no items in your shopping cart.
+            </p>
+           </div>
+          </div>
+          <script type="text/javascript">
+           jQuery(function($){
+        $('.mini-cart').mouseover(function(e){
+            $(this).children('.topCartContent').fadeIn(200);
+            return false;
+        }).mouseleave(function(e){
+            $(this).children('.topCartContent').fadeOut(200);
+            return false;
+        });
+    });
+          </script>
+         </div>
+        </div>
+        <div class="search-area d-sm-inline-block col-auto">
+         <a href="#">
+          <span class="regional flag-icon flag-icon-us" id="vs-global-locations">
+          </span>
+         </a>
+        </div>
+        <div class="col-auto">
+         <a class="menu-icon" href="javascript:void(0)" title="Menu">
+          <i class="fal fa-bars">
+          </i>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="mobile-nav side-block container">
+    <span class="close-sidebar-menu">
+     <i class="icon-cancel">
+     </i>
+    </span>
+    <div class="menu-all-pages-container">
+     <div class="header">
+      <form action="//www.viewsonic.com/parts/catalogsearch/result/" autocomplete="off" id="search_mini_form" method="get">
+       <div class="form-search no-padding">
+        <label for="search">
+         Search:
+        </label>
+        <input class="search__text input-text" id="search" name="q" type="text"/>
+        <button class="button" title="Search" type="submit">
+         <i class="icon-search">
+         </i>
+        </button>
+        <div class="search-autocomplete" id="search_autocomplete">
+        </div>
+        <div class="clearer">
+        </div>
+       </div>
+      </form>
+      <script>
+       (function($){//Adds focus to searchbar when click the search icon
+$('.search-icon').click(focusInput);
+function focusInput(){
+setTimeout(function(){
+$('.search-area input').filter(':visible').focus();
+}, 100);
+}//Checks if in Parts Store. If true, then adds class styling specific to parts store
+if(/\/parts\//.test(window.location.href)){
+$('body').addClass('parts-store')
+} else {
+$('body').removeClass('parts-store')
+}
+})(jQuery)
+      </script>
+      <script>
+       jQuery( document ).ready(function() {
+try {
+jQuery(".search__text").keyup(function(event) {
+if (event.keyCode === 13) {
+jQuery("#search_mini_form").submit();
+}
+});
+} catch(err) {
+console.log(err);
+}
+});
+      </script>
+     </div>
+     <ul class="menu">
+      <li class="">
+       <a href="//www.viewsonic.com/parts/monitor-parts.html" target="_blank ">
+        Monitor Parts
+       </a>
+      </li>
+      <li class="">
+       <a href="//www.viewsonic.com/parts/pj.html" target="_blank ">
+        Projector Parts
+       </a>
+      </li>
+      <li class="">
+       <a href="//www.viewsonic.com/parts/commercial-interactive-display-parts.html" target="_blank ">
+        Commercial/Interactive Display Parts
+       </a>
+      </li>
+     </ul>
+     <ul class="top-links-list col-auto d-flex">
+      <li>
+       <a class="btn btn-red" href="https://www.viewsonic.com/parts/customer/account/login/" role="button" title="Log In">
+        Log In
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="custom-block">
+    </div>
+   </div>
+   <div class="mobile-nav-overlay close-mobile-nav">
+   </div>
+   <script type="text/javascript">
+   </script>
+   <div class="top-container">
+    <div class="breadcrumbs">
+     <div class="container">
+      <div class="row">
+       <div class="col-12 breadcrumbs">
+        <ul class="row align-items-center justify-content-center justify-content-md-start flex-wrap">
+         <li class="col-auto" typeof="v:Breadcrumb">
+          <a href="https://www.viewsonic.com/parts/" property="v:title" rel="v:url" title="Home">
+           Home
+          </a>
+         </li>
+         <span>
+          »
+         </span>
+         <li class="col-auto">
+          <span class="current">
+           PL-00009513
+          </span>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="main-container col1-layout">
+    <div class="main">
+     <div class="col-main">
+      <div id="loading-mask">
+       <div class="background-overlay">
+       </div>
+       <p class="loader" id="loading_mask_loader">
+        <i class="ajax-loader large animate-spin">
+        </i>
+       </p>
+      </div>
+      <div id="after-loading-success-message">
+       <div class="background-overlay">
+       </div>
+       <div class="loader" id="success-message-container">
+        <div class="msg-box">
+         Product was successfully added to your shopping cart.
+        </div>
+        <button class="button btn-cart" id="finish_and_checkout" name="finish_and_checkout" type="button">
+         <span>
+          <span>
+           Shopping Cart
+          </span>
+         </span>
+        </button>
+        <button class="button btn-cart" id="continue_shopping" name="continue_shopping" type="button">
+         <span>
+          <span>
+           Continue
+          </span>
+         </span>
+        </button>
+       </div>
+      </div>
+      <script type="text/javascript">
+       jQuery('#finish_and_checkout').click(function(){
+try{
+parent.location.href = 'https://www.viewsonic.com/parts/checkout/cart/';
+}catch(err){
+location.href = 'https://www.viewsonic.com/parts/checkout/cart/';
+}
+});
+jQuery('#continue_shopping').click(function(){
+jQuery('#after-loading-success-message').fadeOut(200);
+clearTimeout(ajaxcart_timer);
+setTimeout(function(){
+jQuery('#after-loading-success-message .timer').text(ajaxcart_sec);
+}, 1000);});
+      </script>
+      <script type="text/javascript">
+       var optionsPrice = new Product.OptionsPrice([]);
+      </script>
+      <div class="product-view">
+       <div class="product-essential container py-5">
+        <form action="https://www.viewsonic.com/parts/checkout/cart/add/uenc/aHR0cHM6Ly93d3cudmlld3NvbmljLmNvbS9wYXJ0cy9wbC0wMDAwOTUxMy5odG1s/product/70492/form_key/MDDUoqPlcommssVB/" id="product_addtocart_form" method="post">
+         <input name="form_key" type="hidden" value="MDDUoqPlcommssVB"/>
+         <div class="no-display">
+          <input name="product" type="hidden" value="70492"/>
+         </div>
+         <div class="row justify-content-center justify-content-md-between align-items-center">
+          <div class="product-img-box col-12 col-md-7">
+           <ul class="" id="etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg">
+            <li>
+             <a class="fancy-images fancy-images_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg" href="https://www.viewsonic.com/media/catalog/product/cache/12/image/600x/17f82f742ffe127f42dca9de82fb58b1/placeholder/default/productImageNA_300x300.jpg">
+              <span class="glyphicon glyphicon-search">
+              </span>
+             </a>
+             <img alt="PL-00009513" class="etalage_thumb_image" src="https://www.viewsonic.com/media/catalog/product/cache/12/image/600x/17f82f742ffe127f42dca9de82fb58b1/placeholder/default/productImageNA_300x300.jpg"/>
+             <img alt="PL-00009513" class="etalage_source_image" src="https://www.viewsonic.com/media/catalog/product/cache/12/image/100x/17f82f742ffe127f42dca9de82fb58b1/placeholder/default/productImageNA_300x300.jpg"/>
+            </li>
+           </ul>
+           <div class="etalage-control">
+            <a class="etalage-prev" href="javascript:void(0)">
+             <i class="icon-angle-left">
+             </i>
+            </a>
+            <a class="etalage-next" href="javascript:void(0)">
+             <i class="icon-angle-right">
+             </i>
+            </a>
+           </div>
+           <div class="product-view-zoom-area">
+           </div>
+           <style>
+            .etalage_small_thumb{
+object-fit: contain;
+}
+.etalage_thumb_image{
+cursor:pointer;
+}.play_button_thumbnail {
+font-size: 21px;
+color: white;
+cursor: pointer;
+transition: opacity 0.3s;
+-webkit-transition: opacity 0.3s;
+opacity: 1;
+position: absolute;
+left: 41%;
+top: 43%;
+}
+@media(max-width: 991px){
+.play_button_thumbnail{
+left: 36%;
+top: 38%;
+font-size: 18px;
+}
+}
+@media(max-width: 768px){}
+@media(max-width: 320px){
+}
+           </style>
+           <script type="text/javascript">
+            var zoom_enabled = false;
+var zoom_type = 0;
+jQuery(document).ready(function(){
+//Note: removed zoom feature for the videos, it didn't look good anyways..
+try {
+jQuery( ".product-video-image" ).click(function() {
+var _videoId = this.id.split('___');
+var videoSRC = 'https://www.youtube.com/embed/' + _videoId[1] + '?rel=0&autoplay=1';
+var videoSRCauto = 'https://www.youtube.com/embed/' + _videoId[1];
+try {
+jQuery('#modal_youtubevideo_' + _videoId[1]).modal('show');
+jQuery('#modal_youtubevideo_' + _videoId[1] + ' iframe').attr('src', videoSRC);
+// Turn off of the modal
+jQuery('#modal_youtubevideo_' + _videoId[1]).on('hidden.bs.modal', function () {
+jQuery('#modal_youtubevideo_' + _videoId[1] + ' iframe').attr('src', videoSRCauto);
+});
+} catch(err) {
+console.log(err);
+}
+});
+} catch(err) {
+console.log(err);
+}
+reloadEtalage();setTimeout(function(){reloadEtalage();}, 500);
+jQuery(window).resize(function(e){
+reloadEtalage();
+var width = jQuery(this).width();
+});
+jQuery('.etalage-prev').on('click', function(){ etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg_previous(); });
+jQuery('.etalage-next').on('click', function(){ etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg_next(); });
+jQuery("a.fancy-images_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg").fancybox();
+function reloadEtalage(){
+var src_img_width = 600;
+var src_img_height = "auto";
+var ratio_width = 600;
+var ratio_height = 600;
+var width, height, thumb_position, small_thumb_count;
+small_thumb_count = 4;
+width = (jQuery(".product-view .product-img-box").width()-15)*small_thumb_count/(small_thumb_count+1);
+height = width*ratio_height/ratio_width;
+thumb_position = "left";
+if(jQuery(window).width()<768){
+width = jQuery(".product-view .product-img-box").width()-8;
+height = "auto";
+thumb_position = "bottom";
+}
+jQuery('#etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg').etalage({
+thumb_image_width: width,
+thumb_image_height: height,
+source_image_width: src_img_width,
+source_image_height: src_img_height,
+zoom_area_width: width,
+zoom_area_height: height,
+zoom_enable: false,
+small_thumbs:small_thumb_count,
+smallthumb_hide_single: false,
+smallthumbs_position: thumb_position,
+smallthumb_inactive_opacity: 1,
+small_thumbs_width_offset: 0,
+show_icon: false,
+autoplay: false
+});
+if(jQuery(window).width()<768){
+var first_img = jQuery("#etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg img.etalage_thumb_image").first();
+var tmp_img = jQuery('<img src="" alt=""/>');
+tmp_img.attr("src",first_img.attr("src"));
+tmp_img.unbind("load");
+tmp_img.bind("load",function(){
+jQuery("#etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg").height(Math.round(width*this.naturalHeight/this.naturalWidth+8)+"px");
+});
+jQuery('#etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg').removeClass("vertical");
+jQuery(".product-view .product-img-box li.etalage_thumb").css({left:0});
+}
+jQuery('#etalage_MjNlNjVjOTc5YzdkZWZiYzczN2IzZWJhN2YyNTJiYjg').addClass("vertical");
+try {
+jQuery( '.etalage_small_thumbs ul .vertical' ).each(function() {
+if (jQuery('img', this).prop('src').indexOf("youtube") >= 0) {
+jQuery(this).append('<i class="far fa-play-circle play_button_thumbnail"></i>');
+}
+});
+} catch (err) {
+console.log(err);
+}
+}});
+           </script>
+           <div class="clear">
+           </div>
+          </div>
+          <div class="product-shop col-md-5">
+           <div class="row justify-content-center justify-content-md-start">
+            <div class="col-12 product-name">
+             <h1>
+              <span>
+               PL-00009513
+              </span>
+             </h1>
+            </div>
+            <div class="col-12 short-description">
+             Pedestal, Assy Base
+             <div>
+              <span class="font-weight-bold">
+               Compatible With:
+              </span>
+              6E.40W02.001, VG2239SMH-2, VG2439SMH-2
+             </div>
+            </div>
+            <div class="p-3" id="pr-snippet">
+            </div>
+            <div class="col-12 product-info">
+             <div>
+              <p class="availability out-of-stock">
+               Availability:
+               <span>
+                Out of stock
+               </span>
+              </p>
+              <div class="price-box my-3">
+               <span class="regular-price" id="product-price-70492">
+                <span class="price">
+                 $30.00
+                </span>
+               </span>
+              </div>
+             </div>
+            </div>
+            <div class="col-12 add-to-box d-flex align-items-center">
+             <div class="add-to-cart d-flex align-items-center">
+              <button class="button btn-cart outofstock" onclick="" title="Add to Cart" type="button">
+               <span>
+                <span>
+                 Contact Sales
+                </span>
+               </span>
+              </button>
+             </div>
+             <script type="text/javascript">
+              function productSubmit()
+{
+// if there's options, make sure one is selected
+if ($$('div.product-configurable-options').length > 0) {// Clean up any potential errors that might still be there
+$('product-configurable-error').hide();
+var optionLabels = $$('div.product-configurable-options label');
+for(var i = 0; i < optionLabels.length; i++) {
+optionLabels[i].removeClassName('error');
+}// Grab the lists and items
+var optionLists = $$('div.product-configurable-options ul');
+var optionItems = $$('div.product-configurable-options ul a.active');// If there's more option lists than selected options we've unselected options
+if (optionLists > optionItems) {
+for(i = 0; i < optionLists.length; i++) {
+if (optionLists[i].select('a.active').length == 0) {
+var labelEls = optionLists[i].up().select('label');
+if (labelEls.length > 0) {
+labelEls[0].addClassName('error');
+}
+}
+}$('product-configurable-error').show();
+return false;
+}
+}// If we reached this point, all is well!
+productAddToCartForm.submit();
+}
+             </script>
+             <ul class="add-to-links">
+              <li>
+               <a class="link-compare comparelink" href="https://www.viewsonic.com/parts/catalog/product_compare/add/product/70492/uenc/aHR0cHM6Ly93d3cudmlld3NvbmljLmNvbS9wYXJ0cy9wbC0wMDAwOTUxMy5odG1s/form_key/MDDUoqPlcommssVB/" uk-tooltip="Add to Compare">
+                <i class="vs-icon-compare">
+                </i>
+                <span>
+                 Add to Compare
+                </span>
+               </a>
+              </li>
+             </ul>
+             <div aria-hidden="true" aria-labelledby="etailersLabel" class="modal fade" id="etailers" role="dialog" tabindex="-1">
+              <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                <div class="modal-header">
+                 <h5 class="modal-title" id="etailersLabel">
+                  E-Tailers for PL-00009513
+                 </h5>
+                 <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+                  <span aria-hidden="true">
+                   ×
+                  </span>
+                 </button>
+                </div>
+                <div class="modal-body etailer">
+                 <div>
+                  <div class="container-fluid etailer">
+                   <a href="https://www.cdw.com/search/?wclsscat=&amp;b=&amp;p=&amp;searchscope=All&amp;ctlgfilter=&amp;sr=1&amp;key=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="CDW" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/cdw.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search CDW
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.insight.com/en_US/search.html?qtype=all&amp;q=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Insight" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/insight.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Insight
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.microcenter.com/search/search_results.aspx?Ntt=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Micro Center" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/microcenter.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Micro Center
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.newegg.com/p/pl?DEPA=0&amp;Order=BESTMATCH&amp;N=-1&amp;isNodeId=1&amp;d=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Newegg" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/newegg.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Newegg
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.officedepot.com/catalog/search.do?Ntt=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Office Depot" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/officedepot.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Office Depot
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.connection.com/ipa/shop/product/search?DefSort=Y&amp;findin=allproducts&amp;SearchType=1&amp;term=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="PC Connection" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/pcconnection.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search PC Connection
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.pcnation.com/web/search.aspx?keywords=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="PCNation" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/pcnation.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search PCNation
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.projectorpeople.com/search_results.asp?q=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Projector People" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/projectorpeople.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Projector People
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="http://www.rakuten.com/sr/searchresults.aspx?qu=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Rakuten" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/rakuten.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Rakuten
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.shi.com/Products/SearchResults.aspx?keyWord=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="SHI" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/shi.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search SHI
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.staples.com/viewsonic/directory_viewsonic?sku=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Staples" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/staples.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Staples
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="http://www.tigerdirect.com/applications/SearchTools/search.asp?keywords=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="TigerDirect" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/tigerdirect.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search TigerDirect
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.trox.com/catalogsearch/result/?q=?PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Troxell Solutions" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/troxellsolutions.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Troxell Solutions
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                   <a href="https://www.zones.com/site/locate/search.html?txt_search=PL-00009513" target="_blank">
+                    <div class="card text-center w-100 mb-3">
+                     <div class="card-body">
+                      <p class="card-text">
+                       <img alt="Zones" border="0" class="img_center img-responsive center-block" height="50" src="/skin/frontend/base/default/images/etailers/zones.png"/>
+                      </p>
+                      <div class="font-weight-bold">
+                       Search Zones
+                      </div>
+                     </div>
+                    </div>
+                   </a>
+                  </div>
+                 </div>
+                </div>
+                <div class="modal-footer">
+                 <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                  Close
+                 </button>
+                </div>
+               </div>
+              </div>
+             </div>
+             <script>
+              var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+coll[i].addEventListener("click", function() {
+this.classList.toggle("active");
+var content = this.nextElementSibling;
+if (content.style.display === "none") {
+content.style.display = "block";
+} else {
+content.style.display = "none";
+}
+});
+}
+             </script>
+            </div>
+            <div class="col-12 downloads-container">
+             <div class="label">
+              Downloads
+              <i class="far fa-cloud-download">
+              </i>
+             </div>
+             <div class="links">
+              <a href="https://www.viewsonic.com/parts/catalog/product_datasheet/view/key/pl-00009513.html" target="_blank">
+               Datasheet
+              </a>
+             </div>
+            </div>
+            <div class="col-12 d-flex share-container">
+             <span>
+              Share
+             </span>
+             <script type="text/javascript">
+              var addthis_product = 'mag-sp-2.0.0';
+var addthis_config 	= {
+pubid : 'ra-534d66da7e55955d'
+}
+             </script>
+             <div addthis:description="" addthis:title="" addthis:url="https://www.viewsonic.com/parts/pl-00009513.html" class="addthis_toolbox addthis_default_style">
+              <a class="addthis_button_preferred_1">
+              </a>
+              <a class="addthis_button_preferred_2">
+              </a>
+              <a class="addthis_button_preferred_3">
+              </a>
+              <a class="addthis_button_preferred_4">
+              </a>
+              <a class="addthis_button_compact">
+              </a>
+              <a class="addthis_counter addthis_bubble_style">
+              </a>
+             </div>
+             <script>
+              var ats_widget =  function(){
+if(typeof addthis_conf == 'undefined'){
+var at_script = document.createElement('script');
+at_script.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-534d66da7e55955d';
+document.getElementsByTagName('head')[0].appendChild(at_script);
+var addthis_product = 'mag-sp-2.1.0';
+}
+};
+if(window.addEventListener)
+window.addEventListener('load',ats_widget);
+else
+window.attachEvent('onload',ats_widget);
+             </script>
+             <style>
+              #at3win #at3winheader h3 {
+text-align:left !important;
+}
+             </style>
+            </div>
+           </div>
+          </div>
+         </div>
+        </form>
+        <script type="text/javascript">
+         //<![CDATA[
+var productAddToCartForm = new VarienForm('product_addtocart_form');
+productAddToCartForm.submit = function (button, url) {
+if (this.validator.validate()) {
+var form = this.form;
+var oldUrl = form.action;
+if (url) {
+form.action = url;
+}
+var e = null;
+try {
+this.form.submit();
+} catch (e) {
+}
+this.form.action = oldUrl;
+if (e) {
+throw e;
+}
+if (button && button != 'undefined') {
+button.disabled = true;
+}
+} else {
+if (jQuery('#product-options-wrapper'))
+jQuery('#product-options-wrapper').scrollToMe();
+}
+}.bind(productAddToCartForm);
+//]]>
+        </script>
+        <script type="text/javascript">
+         productAddToCartForm.submitLight = function (button, url) {
+if (this.validator) {
+var nv = Validation.methods;
+delete Validation.methods['required-entry'];
+delete Validation.methods['validate-one-required'];
+delete Validation.methods['validate-one-required-by-name'];
+// Remove custom datetime validators
+for (var methodName in Validation.methods) {
+if (methodName.match(/^validate-datetime-.*/i)) {
+delete Validation.methods[methodName];
+}
+}
+if (this.validator.validate()) {
+if (url) {
+this.form.action = url;
+}
+this.form.submit();
+}
+Object.extend(Validation.methods, nv);
+} else {
+if (jQuery('#product-options-wrapper'))
+jQuery('#product-options-wrapper').scrollToMe();
+}
+}.bind(productAddToCartForm);
+        </script>
+       </div>
+       <div class="product-collateral container">
+        <div class="collateral-inner">
+         <div class="row">
+          <div class="col-md-12">
+           <div class="product-tabs-list-container py-2" uk-sticky="">
+            <div class="container product-tabs-list">
+             <div class="row justify-content-center align-items-center position-relative">
+              <ul class="col-12 col-md d-flex flex-wrap justify-content-center align-items-center">
+               <li class="active first" id="tab_description_tabbed">
+                <a class="overview" href="#">
+                 <span>
+                  Overview
+                 </span>
+                </a>
+               </li>
+               <li class="" id="tab_specs_tabbed">
+                <a class="specs" href="#">
+                 <span>
+                  Specs
+                 </span>
+                </a>
+               </li>
+               <li class="" id="tab_downloads_tabbed">
+                <a class="downloads" href="#">
+                 <span>
+                  Downloads
+                 </span>
+                </a>
+               </li>
+              </ul>
+              <button class="button btn-cart col-auto position-md-absolute position-md-right outofstock" title="Contact Sales" type="button">
+               <span>
+                Contact Sales
+               </span>
+              </button>
+             </div>
+            </div>
+           </div>
+           <div class="product-tabs horizontal">
+            <div class="tab-content" id="tab_description_tabbed_contents">
+             <div class="description container text-center pb-7">
+              <div class="row">
+               <p class="text-left">
+                Pedestal, Assy Base
+               </p>
+              </div>
+             </div>
+            </div>
+            <div class="tab-content" id="tab_specs_tabbed_contents">
+             <div class="specs container" id="specifications-container">
+              <div class="row">
+              </div>
+              <div class="row justify-content-center">
+               <div class="col-8 vs-divider my-7">
+               </div>
+              </div>
+              <div class="specs-row pb-6">
+               <div class="row">
+                <h3 class="col-12 text-center text-md-left">
+                 General
+                </h3>
+               </div>
+               <div class="row">
+                <div class="col-6 col-md-4 py-4">
+                 <h4>
+                  Short Description
+                 </h4>
+                 <p class="mb-0 short_description">
+                  Pedestal, Assy Base
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="tab-content" id="tab_downloads_tabbed_contents">
+             <div class="downloads container" id="downloads-container">
+              <div class="row">
+               <div class="col-md mb-5 text-center text-md-left">
+                <h3>
+                 Datasheets
+                </h3>
+                <div class="py-2">
+                 <a href="https://www.viewsonic.com/parts/catalog/product_datasheet/view/key/PL-00009513.html" target="_blank">
+                  PL-00009513 Datasheet
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="col-0">
+            <script type="text/javascript">
+             //<![CDATA[
+var pdpTabs = new Varien.Tabs('.product-tabs-list ul');
+//]]>
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <script type="text/javascript">
+       try {
+jQuery('.product-view .product-shop .short-description').moreLines({
+linecount: 8,
+baseclass: 'b-description',
+basejsclass: 'js-description',
+classspecific: '_readmore',
+buttontxtmore: "read more",
+buttontxtless: "read less",
+animationspeed: 250
+});
+} catch(err) {
+}
+      </script>
+     </div>
+    </div>
+   </div>
+   <div class="footer-container text-center text-sm-left">
+    <div class="footer-middle">
+     <div class="container">
+      <div class="row">
+       <div class="footer-section col-12 col-sm-6 col-md-3 py-3">
+        <h3>
+         Company
+        </h3>
+        <ul>
+         <li class="footer-link">
+          <a href="/parts/about-us">
+           About Us
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/library">
+           Library
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/minority-owned-business">
+           Minority Owned
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/finchclub">
+           Partner Program
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/company/privacy-policy">
+           Privacy Policy
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/partners">
+           Technology Partners
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/company/terms-of-use">
+           Terms of Use
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="footer-section col-12 col-sm-6 col-md-3 py-3">
+        <h3>
+         Help &amp; Support
+        </h3>
+        <ul>
+         <li class="footer-link">
+          <a href="/parts/calculator">
+           Calculators
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/products/shop/extended-warranties.html">
+           Extended Warranties
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/customer-service#faq-section">
+           FAQ
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/limited-warranties/">
+           Limited Warranties
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/productregistration/productregistration/setRegistrationMethod/">
+           Product Registration
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/support/customer-service/customer-service-form">
+           RMA Request Form
+          </a>
+         </li>
+         <li class="footer-link">
+          <a href="/parts/support/customer-service/#cs-rma">
+           RMA Status
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="footer-section col-12 col-sm-6 col-md-3 py-3">
+        <h3>
+         Shop ViewSonic
+        </h3>
+        <ul>
+        </ul>
+       </div>
+       <div class="footer-section col-12 col-sm-6 col-md-3 py-3">
+        <h3>
+         Follow us on
+        </h3>
+        <ul class="footer-social-links">
+         <li>
+          <a href="https://www.facebook.com/ViewSonicCorp/" target="_blank">
+           <i class="fab fa-facebook-f">
+           </i>
+           Facebook
+          </a>
+         </li>
+         <li>
+          <a href="https://twitter.com/viewsonic" target="_blank">
+           <i class="fab fa-twitter">
+           </i>
+           Twitter
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/company/viewsonic" target="_blank">
+           <i class="fab fa-linkedin">
+           </i>
+           LinkedIn
+          </a>
+         </li>
+         <li>
+          <a href="https://www.youtube.com/user/ViewSonicVideo" target="_blank">
+           <i class="fab fa-youtube">
+           </i>
+           YouTube
+          </a>
+         </li>
+         <li>
+          <a href="http://community.spiceworks.com/pages/viewsonic/follow?utm_campaign=follow&amp;utm_medium=button&amp;utm_source=viewsonic" target="_blank">
+           <i class="fal fa-share-square">
+           </i>
+           Spiceworks
+          </a>
+         </li>
+         <li>
+          <a href="https://www.instagram.com/viewsonic_corp/" target="_blank">
+           <i class="fab fa-instagram">
+           </i>
+           Instagram
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <section class="newsletter">
+       <div class="container">
+        <div class="row">
+         <div class="col-sm-12">
+          <div class="content">
+           <form action="https://www.viewsonic.com/parts/newsletter/subscriber/new/" id="newsletter-validate-detail" method="post">
+            <input name="form_key" type="hidden" value="MDDUoqPlcommssVB"/>
+            <div class="input-group w-75 mx-auto">
+             <input class="form-control required-entry validate-email" name="email" placeholder="Enter your email to receive our Newsletter" type="email"/>
+             <span class="input-group-btn">
+              <button class="btn btn-red" type="submit">
+               Subscribe Now
+              </button>
+             </span>
+            </div>
+           </form>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <script type="text/javascript">
+       var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+      </script>
+     </div>
+    </div>
+    <div class="footer-bottom legal-copy">
+     <div class="container">
+      <div class="row text-center">
+       <div class="custom-block">
+       </div>
+       <div class="col-12">
+        <p>
+         Program, pricing, specifications &amp; availability are subject to change without notice. All prices, unless otherwise stated, are in U.S. Dollars. Selection, offers and programs may vary by country. Corporate names and trademarks stated herein are the property of their respective companies. Copyright© 2000-2020 ViewSonic Corporation. All rights reserved.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <a href="#" id="totop">
+    <i class="icon-up-open">
+    </i>
+   </a>
+   <div class="modal" id="errorModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+     <div class="modal-content">
+      <div class="modal-header alert-danger">
+       <h5 class="modal-title" id="errorModalTitle">
+       </h5>
+       <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+      <div class="modal-body" id="errorModalBody">
+      </div>
+      <div class="modal-footer">
+       <button class="btn btn-secondary" data-dismiss="modal" type="button">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="downloads_video_popup">
+    <div class="popup-cont">
+     <div id="dl_video_content">
+      <div id="dl_video_title">
+       <h2>
+        video title
+       </h2>
+      </div>
+      <div id="dl_video">
+       video content
+      </div>
+     </div>
+     <div class="spinner" id="dl-spinner">
+     </div>
+     <div class="close-button" id="close_popup" type="button">
+     </div>
+    </div>
+   </div>
+   <div id="downloads_video_overlay">
+   </div>
+   <script type="text/javascript">
+    downloads.postInit();
+   </script>
+   <div id="vstracking">
+   </div>
+   <script src="https://www.viewsonic.com/skin/frontend/smartwave/porto/js/viewsonic/compare.js" type="text/javascript">
+   </script>
+   <script src="https://www.viewsonic.com/skin/frontend/smartwave/porto/js/viewsonic/viewsonic.js" type="text/javascript">
+   </script>
+   <div aria-hidden="true" aria-labelledby="globalRegions" class="regional modal fade modal-move-down regional-links" id="vs-global-selector" role="dialog" tabindex="-1">
+    <div class="regional modal-dialog model-dialog-adjust hide_modal" role="document">
+     <div class="regional modal-content change-color modal-content-container">
+      <div class="regional modal-header center-text region">
+       <i aria-hidden="true" class="regional fa fa-globe regional">
+       </i>
+       <h5 class="regional modal-title modal-uppercase-title" id="globalRegions">
+        Select Your Region
+       </h5>
+       <button aria-label="Close" class="regional move-times-btn close regional-modal global-selector-btn-closeout" data-dismiss="modal" type="button">
+        <i aria-hidden="true" class="regional fa regional-icon fa-times">
+        </i>
+       </button>
+      </div>
+      <div class="regional modal-body modal-body-no-padding">
+       <div class="regional card geo-card card-margin-change">
+        <div class="regional card-header add-padding" id="vs-region-0">
+         <div class="regional container-fluid">
+          <div class="regional row">
+           <div class="regional col-xs-10 col-10 margin-right-remove">
+            <h5 class="regional mb-0 regional country-names country-names-Americas">
+             Americas
+            </h5>
+           </div>
+           <div class="regional col-xs-2 col-2">
+            <button aria-controls="vs-countries-0" aria-expanded="true" class="regional btn btn-link moving-btn" data-target="#vs-countries-0" data-toggle="collapse">
+             <i aria-hidden="true" class="regional fa fa-caret-down">
+             </i>
+            </button>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div aria-labelledby="vs-countries-0" class="regional collapse show" data-parent="#accordion" id="vs-countries-0">
+         <div class="regional card-body card-body-white cards-body-spacing">
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/us">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <img alt="" class="" src="https://www.viewsonic.com/skin/frontend/smartwave/porto/images/flags/united_canada_flag.jpg" style="vertical-align: bottom;"/>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              United States / Canada
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/la">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-latin" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Latin America
+             </div>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="regional card geo-card card-margin-change">
+        <div class="regional card-header add-padding" id="vs-region-1">
+         <div class="regional container-fluid">
+          <div class="regional row">
+           <div class="regional col-xs-10 col-10 margin-right-remove">
+            <h5 class="regional mb-0 regional country-names country-names-Europe">
+             Europe
+            </h5>
+           </div>
+           <div class="regional col-xs-2 col-2">
+            <button aria-controls="vs-countries-1" aria-expanded="true" class="regional btn btn-link moving-btn" data-target="#vs-countries-1" data-toggle="collapse">
+             <i aria-hidden="true" class="regional fa fa-caret-down">
+             </i>
+            </button>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div aria-labelledby="vs-countries-1" class="regional collapse show" data-parent="#accordion" id="vs-countries-1">
+         <div class="regional card-body card-body-white cards-body-spacing">
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/at">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-at" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Austria
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/be">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-be" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Belgium
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/fr">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-fr" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              France
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/de">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-de" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Germany
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/it">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-it" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Italy
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/nl">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-nl" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Netherlands
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/ru">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-ru" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Russia
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/es">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-es" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Spain
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/ch">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-ch" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Switzerland
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/tr">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-tr" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Turkey
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/ua">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-ua" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Ukraine
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/uk">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-uk" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              UK/Ireland
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/eu">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-eu" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Rest of Europe
+             </div>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="regional card geo-card card-margin-change">
+        <div class="regional card-header add-padding" id="vs-region-2">
+         <div class="regional container-fluid">
+          <div class="regional row">
+           <div class="regional col-xs-10 col-10 margin-right-remove">
+            <h5 class="regional mb-0 regional country-names country-names-Asia / South Pacific / Africa">
+             Asia / South Pacific / Africa
+            </h5>
+           </div>
+           <div class="regional col-xs-2 col-2">
+            <button aria-controls="vs-countries-2" aria-expanded="true" class="regional btn btn-link moving-btn" data-target="#vs-countries-2" data-toggle="collapse">
+             <i aria-hidden="true" class="regional fa fa-caret-down">
+             </i>
+            </button>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div aria-labelledby="vs-countries-2" class="regional collapse show" data-parent="#accordion" id="vs-countries-2">
+         <div class="regional card-body card-body-white cards-body-spacing">
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/ap">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <img alt="" class="" src="https://www.viewsonic.com/skin/frontend/smartwave/porto/images/flags/europeasia_earth.png" style="vertical-align: bottom;"/>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Asia Pacific
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/au">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-au" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Australia
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/bd">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-bd" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Bangladesh
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com.cn">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-cn" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              China
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/hk">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-hk" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Hong Kong (Traditional Chinese)
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/hk-en">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-hk-en" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Hong Kong (English)
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/in">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-in" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              India
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/id">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-id" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Indonesia
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/il">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-il" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Israel
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/jp">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-jp" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Japan
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/kz">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-kz" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Kazakhstan
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/my">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-my" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Malasia
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/me">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-me" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Middle East
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/mm">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-mm" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Myanmar
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/np">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-np" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Nepal
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/nz">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-nz" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              New Zealand
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/pk">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-pk" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Pakistan
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/ph">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-ph" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Philippines
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/sg">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-sg" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Singapore
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/za">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-za" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              South Africa &amp; Mauritius
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/kr">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-kr" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              South Korea
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/lk">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-lk" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Sri Lanka
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/tw">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-tw" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Taiwan
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/th">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-th" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Thailand
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="regional country-links country-links-spacing country-links-highlighting" href="https://www.viewsonic.com/vn">
+           <div class="regional container-fluid">
+            <div class="regional row">
+             <div class="regional col-xs-2 col-2 regional flag-size">
+              <span class="regional flag-icon flag-icon-vn" id="vs-global-locations">
+              </span>
+             </div>
+             <div class="regional col-xs-10 col-10 no-padding-left individual-country-names">
+              Vietnam
+             </div>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    //<![CDATA[
+new ShipperHQ.JQueryLoader(
+{
+"jquery": { "default": "1.11.2" },
+"ui": {
+"default": "1.11.2", // By default all use new version
+"1.5": "1.8.24",
+"1.4": "1.8.24",
+"1.3": "1.8.24"
+}
+},
+{
+"jquery": "//ajax.googleapis.com/ajax/libs/jquery/{version}/jquery.min.js",
+"ui": "//ajax.googleapis.com/ajax/libs/jqueryui/{version}/jquery-ui.min.js",
+"ui-style": "//ajax.googleapis.com/ajax/libs/jqueryui/{version}/themes/ui-lightness/jquery-ui.css"
+}
+);
+//]]>
+   </script>
+   <div aria-hidden="true" aria-labelledby="salesContactFormLabel" class="modal fade" id="salesContactForm" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+     <div class="modal-content">
+      <div class="modal-header">
+       <h5 class="modal-title" id="salesContactFormLabel">
+        Contact The ViewSonic Sales Team
+       </h5>
+       <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+      <div class="modal-body">
+       <div class="sales-box clearfix">
+        <div class="leftCol">
+         <form action="https://www.viewsonic.com/parts/sendemail/" id="sales-form" method="post">
+          <input name="form_key" type="hidden" value="MDDUoqPlcommssVB">
+           <input name="receiver" type="hidden" value="sales_representative"/>
+           <input name="title" type="hidden" value="Contact For Product"/>
+           <input name="sku" type="hidden" value="PL-00009513"/>
+           <input name="product_id" type="hidden" value="70492"/>
+           <input name="label[sku]" type="hidden" value="SKU"/>
+           <input name="label[fname]" type="hidden" value="First Name"/>
+           <input name="label[lname]" type="hidden" value="Last Name"/>
+           <input name="label[email]" type="hidden" value="Email"/>
+           <input name="label[phone]" type="hidden" value="Phone"/>
+           <input name="label[reseller]" type="hidden" value="Is Reseller?"/>
+           <input name="label[message]" type="hidden" value="Message"/>
+           <input name="label[url]" type="hidden" value="URL"/>
+           <input name="url" type="hidden" value="https://www.viewsonic.com/parts/pl-00009513.html"/>
+           <ul class="form-list">
+            <li>
+             <div class="form-row">
+              <div class="col-md-6">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="fname" placeholder="FIRST NAME*" type="text" value=""/>
+               </div>
+              </div>
+              <div class="col-md-6">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="lname" placeholder="LAST NAME*" type="text" value=""/>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li>
+             <div class="form-row">
+              <div class="col-md-6">
+               <div class="input-box">
+                <input class="input-text required-entry validate-email form-control floating-label" name="email" placeholder="EMAIL*" type="text" value=""/>
+               </div>
+              </div>
+              <div class="col-md-6">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="phone" placeholder="PHONE NUMBER*" type="text"/>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li>
+             Are you a reseller?*
+             <div class="form-check form-check-inline mx-2">
+              <input class="form-check-input validate-one-required-by-name" id="reseller_yes" name="reseller" type="radio" value="yes"/>
+              <label class="form-check-label pt-3" for="reseller_yes">
+               Yes
+              </label>
+             </div>
+             <div class="form-check form-check-inline mx-2">
+              <input class="form-check-input validate-one-required-by-name" id="reseller_no" name="reseller" type="radio" value="no"/>
+              <label class="form-check-label pt-3" for="reseller_no">
+               No
+              </label>
+             </div>
+            </li>
+            <li>
+             <textarea class="form-control floating-label" name="message" placeholder="MESSAGE (MAX 500 CHARS)"></textarea>
+            </li>
+           </ul>
+           <div class="arithmetic-captcha">
+            <span>
+             Please verify you are human:
+            </span>
+            <div class="question">
+             <img src="https://www.viewsonic.com/parts/security/captcha/index/form/sales/"/>
+             <input id="sales_captcha_entered" maxlength="2" name="sales_captcha_entered" placeholder="Answer" type="text"/>
+            </div>
+            <span class="wrong-captcha">
+            </span>
+           </div>
+          </input>
+         </form>
+        </div>
+        <div class="rightCol">
+         <div class="title">
+          Get in Contact
+         </div>
+         <p>
+          Thanks for your interest in purchasing a ViewSonic product. To help us best accommodate your needs, please fill out the Purchase Request form and a ViewSonic representative will contact you to discuss a tailored solution for your business.
+         </p>
+         <div class="title">
+          Contact Info
+         </div>
+         <div class="contacts">
+          <div class="phone clearfix">
+           <span class="i_phone">
+           </span>
+           <span class="text">
+            1-888-881-8781
+           </span>
+          </div>
+          <div class="mail clearfix">
+           <span class="i_mail">
+           </span>
+           <span class="text">
+            salesinfo@viewsonic.com
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="modal-footer">
+       <button class="btn btn-secondary" data-dismiss="modal" type="button">
+        Close
+       </button>
+       <button class="btn btn-primary" id="sales-form-submit" name="send" title="Submit" type="button">
+        Submit
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    //< ![CDATA[
+disableSubmit(false);
+var $j = jQuery.noConflict();
+$j('#sales-form-submit').click(function (e) {
+e.preventDefault();
+disableSubmit(true);$j.ajax({
+url: 'https://www.viewsonic.com/parts/security/captcha/verify/form/sales/',
+data: {answer: $j('input[name=sales_captcha_entered]').val()},
+type: 'POST',
+success: function(result) {
+if (result.success) {
+$j('.wrong-captcha').html('');
+var dataForm = new VarienForm('sales-form', true);
+if (dataForm.validator.validate()){
+$j('#sales-form').submit();
+} else {
+disableSubmit(false);
+}
+return;
+} else {
+$j('.wrong-captcha').html('Please try again');
+disableSubmit(false);
+}
+},
+error: function(request, status, error) {
+console.log('Error', request.responseText);
+disableSubmit(false);
+}
+});
+});function disableSubmit(isActive) {if (isActive) {
+// Mouse Cursor Style Change
+document.getElementById('sales-form-submit').style.cursor = 'progress';
+document.getElementById('salesContactForm').style.cursor = 'progress';// Disable Button
+document.getElementById('sales-form-submit').disabled = true;
+} else {
+// Mouse Cursor Style Change
+document.getElementById('sales-form-submit').style.cursor = 'default';
+document.getElementById('salesContactForm').style.cursor = 'default';// Enable Button
+document.getElementById('sales-form-submit').disabled = false;
+}
+}
+//]]>
+   </script>
+   <div aria-hidden="true" aria-labelledby="salesContactFormLabel" class="modal fade" id="demoRequestForm" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+     <div class="modal-content">
+      <div class="modal-header">
+       <h5 class="modal-title" id="salesContactFormLabel">
+        Contact ViewSonic For A Personalized Demo
+       </h5>
+       <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+      <div class="modal-body">
+       <div class="sales-box clearfix">
+        <div class="leftCol">
+         <form action="https://www.viewsonic.com/parts/sendemail/" id="demo-form" method="post">
+          <input name="form_key" type="hidden" value="MDDUoqPlcommssVB">
+           <input name="receiver" type="hidden" value="demo_form"/>
+           <input name="title" type="hidden" value="Contact For Demo"/>
+           <input name="sku" type="hidden" value="PL-00009513"/>
+           <input name="product_id" type="hidden" value="70492"/>
+           <input name="label[sku]" type="hidden" value="SKU"/>
+           <input name="label[fname]" type="hidden" value="First Name"/>
+           <input name="label[lname]" type="hidden" value="Last Name"/>
+           <input name="label[email]" type="hidden" value="Email"/>
+           <input name="label[company]" type="hidden" value="Company"/>
+           <input name="label[job]" type="hidden" value="Job Title"/>
+           <input name="label[phone]" type="hidden" value="Phone"/>
+           <input name="label[reseller]" type="hidden" value="Is Reseller?"/>
+           <input name="label[timezone]" type="hidden" value="Time zone"/>
+           <input name="label[interests]" type="hidden" value="Interests"/>
+           <input name="label[country]" type="hidden" value="Country"/>
+           <input name="country" type="hidden" value=""/>
+           <input name="label[message]" type="hidden" value="Message"/>
+           <input name="label[url]" type="hidden" value="URL"/>
+           <input name="url" type="hidden" value="https://www.viewsonic.com/parts/pl-00009513.html"/>
+           <ul class="form-list">
+            <li>
+             <span class="font-weight-bold">
+              Are you a reseller?*
+             </span>
+             <div class="form-check form-check-inline mx-2">
+              <input class="form-check-input validate-one-required-by-name" id="reseller_yes" name="reseller" type="radio" value="yes"/>
+              <label class="form-check-label pt-3" for="reseller_yes">
+               Yes
+              </label>
+             </div>
+             <div class="form-check form-check-inline mx-2">
+              <input class="form-check-input validate-one-required-by-name" id="reseller_no" name="reseller" type="radio" value="no"/>
+              <label class="form-check-label pt-3" for="reseller_no">
+               No
+              </label>
+             </div>
+            </li>
+            <li>
+             <div class="form-row">
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="fname" placeholder="FIRST NAME*" type="text" value=""/>
+               </div>
+              </div>
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="lname" placeholder="LAST NAME*" type="text" value=""/>
+               </div>
+              </div>
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry validate-email form-control floating-label" name="email" placeholder="EMAIL*" type="text" value=""/>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li>
+             <div class="form-row">
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="company" placeholder="COMPANY*" type="text"/>
+               </div>
+              </div>
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="job" placeholder="JOB TITLE*" type="text"/>
+               </div>
+              </div>
+              <div class="col-md-4">
+               <div class="input-box">
+                <input class="input-text required-entry form-control floating-label" name="phone" placeholder="PHONE NUMBER*" type="text"/>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li>
+             <div class="form-row">
+              <div class="col-md-4 font-weight-bold">
+               Time zone(s)*:
+              </div>
+              <div class="col-md-8">
+               <select class="form-control required-entry floating-label" multiple="" name="timezone" style="height: 100px;">
+                <option>
+                 Eastern
+                </option>
+                <option>
+                 Central
+                </option>
+                <option>
+                 Mountain
+                </option>
+                <option>
+                 Pacific
+                </option>
+               </select>
+              </div>
+             </div>
+            </li>
+            <li>
+             <div class="form-row">
+              <div class="col-md-4 font-weight-bold">
+               I'm interested in:
+              </div>
+              <div class="col-md-8 text-left">
+               <div class="form-check form-check-inline">
+                <input class="form-check-input" id="inlineCheckbox2" name="interests[]" type="checkbox" value="Monitors"/>
+                <label class="form-check-label mt-2" for="inlineCheckbox2">
+                 Monitors
+                </label>
+               </div>
+               <div class="form-check form-check-inline">
+                <input class="form-check-input" id="inlineCheckbox3" name="interests[]" type="checkbox" value="Projectors"/>
+                <label class="form-check-label mt-2" for="inlineCheckbox3">
+                 Projectors
+                </label>
+               </div>
+               <div class="form-check form-check-inline">
+                <input class="form-check-input" id="inlineCheckbox1" name="interests[]" type="checkbox" value="myViewboard Software"/>
+                <label class="form-check-label mt-2" for="inlineCheckbox1">
+                 myViewboard Software
+                </label>
+               </div>
+               <div class="form-check form-check-inline">
+                <input class="form-check-input" id="inlineCheckbox4" name="interests[]" type="checkbox" value="Viewboard Interactive Displays"/>
+                <label class="form-check-label mt-2" for="inlineCheckbox4">
+                 Viewboard Interactive Displays
+                </label>
+               </div>
+               <div class="form-check form-check-inline">
+                <input class="form-check-input" id="inlineCheckbox5" name="interests[]" type="checkbox" value="Large Format / Commercial Displays"/>
+                <label class="form-check-label mt-2" for="inlineCheckbox5">
+                 Large Format / Commercial Displays
+                </label>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li>
+             <textarea class="form-control floating-label" name="message" placeholder="MESSAGE (Let us know if you are interested in any specifics for the demo [500 CHARS])"></textarea>
+            </li>
+           </ul>
+           <div class="arithmetic-captcha">
+            <span>
+             Please verify you are human:
+            </span>
+            <div class="question">
+             <img src="https://www.viewsonic.com/parts/security/captcha/index/form/demo/"/>
+             <input id="demo_captcha_entered" maxlength="2" name="demo_captcha_entered" placeholder="Answer" type="text"/>
+            </div>
+            <span class="wrong-captcha">
+            </span>
+           </div>
+          </input>
+         </form>
+        </div>
+       </div>
+      </div>
+      <div class="modal-footer">
+       <button class="btn btn-secondary" data-dismiss="modal" type="button">
+        Close
+       </button>
+       <button class="btn btn-primary" id="demo-form-submit" name="send" title="Submit" type="button">
+        Submit
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    //< ![CDATA[
+disableSubmit(false);
+var $j = jQuery.noConflict();
+$j('#demo-form-submit').click(function (e) {
+e.preventDefault();
+disableSubmit(true);
+$j.ajax({                    
+url: 'https://www.viewsonic.com/parts/security/captcha/verify/form/demo/',                    
+data: {answer: $j('input[name=demo_captcha_entered]').val()},                    
+type: 'POST',                    
+success: function(result) {
+if (result.success) {
+$j('.wrong-captcha').html('');
+var dataForm = new VarienForm('demo-form', true);
+if (dataForm.validator.validate()){
+$j('#demo-form').submit();
+} else {
+disableSubmit(false);
+}
+return;                                
+} else {
+$j('.wrong-captcha').html('Please try again');
+disableSubmit(false);
+}
+},                    
+error: function(request, status, error) {                        
+console.log('Error', request.responseText);
+disableSubmit(false);               
+}                
+});
+});function disableSubmit(isActive) {if (isActive) {
+// Mouse Cursor Style Change
+document.getElementById('demo-form-submit').style.cursor = 'progress';
+document.getElementById('demoRequestForm').style.cursor = 'progress';// Disable Button
+document.getElementById('demo-form-submit').disabled = true;
+} else {
+// Mouse Cursor Style Change
+document.getElementById('demo-form-submit').style.cursor = 'default';
+document.getElementById('demoRequestForm').style.cursor = 'default';// Enable Button
+document.getElementById('demo-form-submit').disabled = false;
+}
+}
+//]]>
+   </script>
+   <script>
+    jQuery(document).ready(function() {
+try {
+jQuery.get('//www.viewsonic.com/eu/services/geo/', '', function(data) {
+if (data.countryName != '') {
+jQuery('input[name=country]').val(data.countryName)
+}
+}, 'json');
+} catch(err) {
+console.log(err);
+}
+});
+   </script>
+   <script>
+    jQuery(document).ready(function () {
+try {
+var pathname = window.location.pathname;
+var urlParts = pathname.split("/");
+var url = '/' + urlParts[1] + '/vsajax/messages/index/';jQuery.ajax({
+url: url,
+method: 'GET',
+success: function (result) {
+var obj = result;
+jQuery.each(obj, function(key, value) {
+var message = value;
+try {
+jQuery.each(message, function(mkey, mvalue) {
+jQuery.toast({
+heading: mvalue, // Optional heading to be shown on the toast
+icon: 'error', // Type of toast icon
+showHideTransition: 'fade', // fade, slide or plain
+allowToastClose: true, // Boolean value true or false
+hideAfter: 4000, // false to make it sticky or number representing the miliseconds as time after which toast needs to be hidden
+stack: 5, // false if there should be only one toast at a time or a number representing the maximum number of toasts to be shown at a time
+position: 'bottom-left', // bottom-left or bottom-right or bottom-center or top-left or top-right or top-center or mid-center or an object representing the left, right, top, bottom values
+bgColor: '#2B2B2B',
+textColor: '#fff',
+textAlign: 'left', // Text alignment i.e. left, right or center
+loader: false, // Whether to show loader or not. True by default
+beforeShow: function () {}, // will be triggered before the toast is shown
+afterShown: function () {}, // will be triggered after the toat has been shown
+beforeHide: function () {}, // will be triggered before the toast gets hidden
+afterHidden: function () {}  // will be triggered after the toast has been hidden
+});
+if (mvalue.toLowerCase().indexOf("comparison".toLowerCase()) == -1) {
+jQuery('#compare-sidebar').addClass('active');
+}
+});
+} catch(err) {
+console.log(err);
+}
+});
+},
+error: function (XMLHttpRequest, textStatus, errorThrown) {
+console.log(errorThrown);
+},
+complete: function (XMLHttpRequest, textStatus) {
+}
+});
+} catch (err) {
+console.log(err);
+}
+});
+   </script>
+   <div id="compare-sidebar">
+   </div>
+   <div aria-hidden="true" aria-labelledby="comparisonModalLabel" class="modal fade" id="comparisonModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document" style="max-width: 90%;">
+     <div class="modal-content overflow-hidden">
+      <div class="modal-header">
+       <h5 class="modal-title" id="comparisonModalLabel" style="color: #EF4338;">
+        ViewSonic Comparison Tool
+       </h5>
+       <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+      <div class="modal-body px-0">
+       <i class="fas fa-cog fa-spin fa-2x">
+       </i>
+      </div>
+      <div class="modal-footer">
+       <a href="https://www.viewsonic.com/parts/catalog/product_compare/" target="_blank">
+        <button class="btn btn-secondary" type="button">
+         Print
+        </button>
+       </a>
+       <button class="btn btn-secondary" data-dismiss="modal" style="background-color: #EF4338; color: #fff;" type="button">
+        Close
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script>
+    jQuery(document).ready(function () {
+initializeCompare();
+});
+   </script>
+  </div>
+  <a href="/bot-trap/index.php" style="display: none;">
+   <img alt=" " border="0" height="1" src="/bot-trap/pixel.gif" width="1"/>
+  </a>
+  <script type="text/javascript">
+   piAId = '33762';
+piCId = '1356';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+  </script>
+  <script type="text/javascript">
+   window._oiqq = window._oiqq || [];
+_oiqq.push(['oiq_addPageLifecycle', 'inte']);
+_oiqq.push(['oiq_doTag']);(function() {
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/view.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+})();
+  </script>
+  <script>
+   var SWPX = SWPX || {};
+SWPX.cmd = SWPX.cmd || [];
+SWPX.cmd.push(function() {
+SWPX.pixel.setPixel('x0bk');
+// Uncomment the following line to place an identifer
+// SWPX.pixel.setIdentifier('');
+SWPX.pixel.fire();
+});
+  </script>
+  <script async="" src="//px.spiceworks.com/px.js">
+  </script>
+  <noscript>
+   <img height="1" src="//px.spiceworks.com/px/x0bk" width="1"/>
+  </noscript>
+  <script>
+   jQuery('.actions button[title="Trial"]:contains("Get Trial")').click(function(){
+ga('send','event','button','click','get-trial');
+});
+jQuery('#product-contact').submit(function(){
+ga('send','event','form','submit','30-Day Free Trial')
+})
+jQuery('.top-submenu-link a:contains("DOWNLOAD PDF")').click(function(){
+ga('send','event','link','click','DOWNLOAD PDF')
+});
+jQuery('#demo-form').submit(function(){
+ga('send','event','form','submit','demo-form');
+});
+jQuery('.bottom-info a[href="/viewschool"]').click(function(){
+ga('send','event','banner-link','click','bottom-banner');
+})
+jQuery('#newsletter-validate-detail').submit(function(){
+ga('send','event','form','submit','newsletter');
+});
+  </script>
+  <script>
+   window.addEventListener("load", function(){
+jQuery('[action="https://www.viewsonic.com/viewschool/customer/account/createpost/"]').submit(function(){  ga('send','event','form','submit','viewschool form submit');})
+});
+  </script>
+  <div id="ttdUniversalPixelTag470b31ea551e4a599e5e10990a14ff62" style="display:none">
+   <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    (function(global) {
+if (typeof TTDUniversalPixelApi === 'function') {
+var universalPixelApi = new TTDUniversalPixelApi();
+universalPixelApi.init("1rubpbx3", ["hvge1r5"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag470b31ea551e4a599e5e10990a14ff62");
+}
+})(this);
+   </script>
+  </div>
+ </body>
+</html>
